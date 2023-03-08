@@ -11,3 +11,7 @@ Program for visualising surface roughness profiles and calculating their charact
 - Calculation of PDF and CFD functions and display of their histogram and interpolated functions.
 - Calculation of the probability of finding a point in a given range of heights.
 - Calculation and visualisation of center and mean lines.
+
+# Context
+
+This code was developed as a voluntary project for the Aerospace Manufacturing course of the Aerospace Engineering degree at the Polytechnic University of Madrid and presented to Professor Alfredo Sanz Lobera, who proposed the topic to me and whose suggestions have been of great value.
